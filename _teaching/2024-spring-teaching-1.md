@@ -9,3 +9,6 @@ location: "Memphis, TN"
 ---
 
 An in person Intro to Managerial Accounting Course
+
+Teaching Effectiveness 
+5.0/5.0
