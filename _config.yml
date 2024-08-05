@@ -23,12 +23,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Lidong Cui"
-  bio              : "May the Force be with you"
-  location         : "Earth"
-  employer         : "University of Memphis"
+  bio              : "University of Memphis"
+  location         : "Memphis, TN"
+  employer         : #"University of Memphis"
   uri              : # URL
   email            : "lcui2@memphis.edu" 
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   orcid            : "https://orcid.org/0000-0002-3955-5092"
   github           : "https://github.com/lidongcui/"
   linkedin         : "https://www.linkedin.com/in/lidong-cui-735349a6/"
