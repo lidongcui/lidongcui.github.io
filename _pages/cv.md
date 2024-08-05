@@ -19,8 +19,8 @@ Education
 
 Working Paper
 ======
-* Do income-statement line items and their comparability mitigate classification shifting? (With Steve Lin)
-  * 2024 Southwest Regional Meeting, 2024 Spark Meeting, 2024 JAAF Conference
+* Do income-statement line items and their comparability mitigate classification shifting? (With Steve Lin)
+  * 2024 Southwest Regional Meeting, 2024 Spark Meeting, 2024 JAAF Conference
 
 * Does Income Statement Presentation Affect Earnings Management? (with Abhijit Barua, Steve Lin, and Andrew Sbaraglia)
   * 2024 Spark Meeting, 2024 JAAF Conference
@@ -33,31 +33,17 @@ Works in Process
 * Analyst Earnings Forecast Properties During Covid-19 (with Steve Lin, Ling Tuo and Ya-wen Yang)
 * Does Reporting Location of Special Items Affect classification shifting? (with Steve Lin)
 
-#Publications
-#======
-  #<ul>{% for post in site.publications reversed %}
-    #{% include archive-single-cv.html %}
-  #{% endfor %}</ul>
-  
-#Talks
-#======
-  #<ul>{% for post in site.talks reversed %}
-    #{% include archive-single-talk-cv.html  %}
-  #{% endfor %}</ul>
-  
 Teaching
 ======
 * The University of Memphis
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  * Instructor, ACCT 2020-002 Managerial Acct, Spring 2024
+  * Co-instructor, ACCT 3310-M50 Intermediate Cost Acct, Fall 2023
   * Course Assistant, ACCT 2010-002 Financial Acct, Spring 2023
   * Course Assistant, ACCT 2010-003 Financial Acct (Hons), Spring 2023
   
 * Binghamton University
   * Course Assistant, ACCT 460 Auditing, Fall 2017
 
-  
 Conference Participation
 ======
 * 2024 AAA Annual Meeting (Moderator, Discussant, Scheduled)
