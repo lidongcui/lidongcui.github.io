@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Accounting, University of Memphis, 2025 (expected)
+  * Minor in Finance
 * M.S. in Finance, Baruch College, 2019
 * M.S. in Accounting, Binghamton University, 2018
 * B.S. in Management with Marketing, University of Leeds, 2016
