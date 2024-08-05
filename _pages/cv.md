@@ -19,7 +19,7 @@ Education
 
 Working Paper
 ======
-* Do income-statement line items and their comparability mitigate classification shifting?” (With Steve Lin)
+* Do income-statement line items and their comparability mitigate classification shifting? (With Steve Lin)
   * 2024 Southwest Regional Meeting, 2024 Spark Meeting, 2024 JAAF Conference
 
 * Does Income Statement Presentation Affect Earnings Management? (with Abhijit Barua, Steve Lin, and Andrew Sbaraglia)
