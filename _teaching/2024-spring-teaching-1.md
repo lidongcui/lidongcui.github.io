@@ -4,6 +4,7 @@ collection: teaching
 type: "Undergraduate"
 permalink: /teaching/2024-spring-teaching-1
 venue: "University of Memphis, Accounting"
+date: 2024-01-17
 location: "Memphis, TN"
 ---
 
