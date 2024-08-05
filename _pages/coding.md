@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "coding"
+title: "Coding"
 permalink: /coding/
 author_profile: true
 
