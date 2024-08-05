@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Lidong Cui, I'm a fifth year Ph.D. Student from [Crews School of Accountancy](https://www.memphis.edu/accountancy/index.php),[University of Memphis](https://www.memphis.edu/)
+My name is Lidong Cui, I'm a fifth year Ph.D. Student from the [Crews School of Accountancy](https://www.memphis.edu/accountancy/index.php),at the [University of Memphis](https://www.memphis.edu/)
 
 My research interest includes Regulatory issues Impacting Financial Reporting, Earnings Management, and Financial Analysts
 
