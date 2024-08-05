@@ -11,6 +11,5 @@ location: "Memphis, TN"
 An Online Intermediate Cost accounting course designed for Junior Accounting Students
 
 Teaching Effectiveness
-======
 4.3/5.0
 
