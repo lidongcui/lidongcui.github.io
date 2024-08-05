@@ -61,13 +61,13 @@ Conference Participation
 
 Service
 ======
-*Ad Hoc Reviewer For Conference
+* Ad Hoc Reviewer For Conference
   * 2024 Spark Meeting
   * 2024 AAA Annual Meeting
   * 2024 South West Regional Meeting
   * 2023 AAA Annual Meeting
   
-*Ad Hoc Reviewer For Journals
+* Ad Hoc Reviewer For Journals
   * British Accounting Review, 2023
   * Journal of International Accounting Research, 2021, 2022, 2023
   * Journal of Forensic Accounting Research, 2023, 2024
