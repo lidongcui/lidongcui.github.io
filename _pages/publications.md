@@ -8,7 +8,7 @@ author_profile: true
 Working Paper
 ======
 *Do income-statement line items and their comparability mitigate classification shifting?*
-===
+======
 
 Authors: *Lidong Cui*, Steve Lin
 
@@ -16,7 +16,7 @@ Authors: *Lidong Cui*, Steve Lin
 This study examines how the accounting line items reported on the income statement influence earnings management through classification shifting. Using data from the 2003-2023 period, we find that more accounting line items reported on the income statement help mitigate classification shifting. We also document that more comparable income line items among peer firms in the same industry further mitigate classification shifting. 
 
 *Does Income Statement Presentation Affect Earnings Management?*
-===
+======
 
 Authors: Abhijit Barua, *Lidong Cui*, Steve Lin, and Andrew Sbaraglia
 
