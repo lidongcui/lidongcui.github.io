@@ -13,6 +13,7 @@ Working Paper
 ======
 
 Authors: *Lidong Cui*, Steve Lin
+
 Presented at: 2024 Southwest Regional Meeting, 2024 Spark Meeting, 2024 JAAF Conference
 
 *Abstract*:
@@ -22,6 +23,7 @@ This study examines how the accounting line items reported on the income stateme
 ======
 
 Authors: Abhijit Barua, *Lidong Cui*, Steve Lin, and Andrew Sbaraglia
+
 Presented at: 2024 Spark Meeting, 2024 JAAF Conference
 
 *Abstract*:
