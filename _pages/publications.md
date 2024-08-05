@@ -13,7 +13,7 @@ Working Paper
 ======
 
 Authors: *Lidong Cui*, Steve Lin
-Presented at: 2024 Southwest Regional Meeting, 2024 Spark Meeting, 2024 JAAF Conference
+Presented at: 2024 Southwest Regional Meeting, 2024 Spark Meeting, 2024 JAAF Conference
 
 *Abstract*:
 This study examines how the accounting line items reported on the income statement influence earnings management through classification shifting. Using data from the 2003-2023 period, we find that more accounting line items reported on the income statement help mitigate classification shifting. We also document that more comparable income line items among peer firms in the same industry further mitigate classification shifting. 
