@@ -7,6 +7,7 @@ author_profile: true
 
 Working Paper
 ======
+
 *Do income-statement line items and their comparability mitigate classification shifting?*
 ======
 
