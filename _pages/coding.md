@@ -11,4 +11,4 @@ author_profile: true
 
 Below are some sample codes that might be useful:
 
-[Amihud (2002) illiquidity] by Dr. Lewen Guo. You can find it on GitHub at this link: (https://github.com/Guolewen/amihud2002/tree/master)
+[Amihud (2002) illiquidity](https://github.com/Guolewen/amihud2002/tree/master) by Dr. Lewen Guo. You can find it on GitHub at this link. 
