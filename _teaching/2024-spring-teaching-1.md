@@ -1,7 +1,7 @@
 ---
 title: "ACCT 2020-002 Managerial Acct"
 collection: teaching
-type: "Undergraduate"
+type: "Undergraduate Course"
 permalink: /teaching/2024-spring-teaching-1
 venue: "University of Memphis, Accounting"
 date: 2024-01-17
