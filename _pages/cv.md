@@ -20,6 +20,7 @@ Working Paper
 ======
 * Do income-statement line items and their comparability mitigate classification shifting? (With Steve Lin)
   * 2024 Southwest Regional Meeting, 2024 Spark Meeting, 2024 JAAF Conference
+  * 2025 Hawaii Accounting Research Conference (Scheduled)
 
 * Does Income Statement Presentation Affect Earnings Management? (with Abhijit Barua, Steve Lin, and Andrew Sbaraglia)
   * 2024 Spark Meeting, 2024 JAAF Conference
@@ -45,7 +46,8 @@ Teaching
 
 Conference Participation
 ======
-* 2024 AAA Annual Meeting (Moderator, Discussant, Scheduled)
+* 2025 HARC (Presenter, Scheduled)
+* 2024 AAA Annual Meeting (Moderator, Discussant)
 * 2024 Spark Meeting (Presenter)
 * 2024 Southwest Regional Meeting (Presenter)
 * 2024 IAS Midyear Meeting (Discussant)
@@ -69,7 +71,7 @@ Service
   
 * Ad Hoc Reviewer For Journals
   * British Accounting Review, 2023
-  * Journal of International Accounting Research, 2021, 2022, 2023
+  * Journal of International Accounting Research, 2021, 2022, 2023, 2024
   * Journal of Forensic Accounting Research, 2023, 2024
   * Asian Review of Accounting, 2023, 2024
   * Managerial Auditing Journal, 2021, 2022
