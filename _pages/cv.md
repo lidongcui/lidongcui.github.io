@@ -64,7 +64,8 @@ Conference Participation
 Service
 ======
 * Ad Hoc Reviewer For Conference
-  * 2025 FARS Midyear
+  * 2025 IAS Midyear Meeting
+  * 2025 FARS Midyear Meeting
   * 2024 Spark Meeting
   * 2024 AAA Annual Meeting
   * 2024 South West Regional Meeting
