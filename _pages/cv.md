@@ -35,6 +35,7 @@ Works in Process
 
 Teaching
 ======
+* My teaching preferences include financial axxounting, managerial accounting, and data analytics. 
 * The University of Memphis
   * Instructor, ACCT 2020-002 Managerial Acct, Spring 2024
   * Co-instructor, ACCT 3310-M50 Intermediate Cost Acct, Fall 2023
