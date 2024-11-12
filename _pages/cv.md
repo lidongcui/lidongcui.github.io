@@ -20,7 +20,7 @@ Working Paper
 ======
 * Do income-statement line items and their comparability mitigate classification shifting? (With Steve Lin)
   * 2024 Southwest Regional Meeting, 2024 Spark Meeting, 2024 JAAF Conference
-  * 2025 Hawaii Accounting Research Conference (Scheduled)
+  * 2025 Hawaii Accounting Research Conference (Scheduled), 2025 FARS Midyear Meeting (Scheduled)
 
 * Does Income Statement Presentation Affect Earnings Management? (with Abhijit Barua, Steve Lin, and Andrew Sbaraglia)
   * 2024 Spark Meeting, 2024 JAAF Conference
@@ -48,6 +48,7 @@ Teaching
 
 Conference Participation
 ======
+* 2025 FARS Midyear Meeting (Presenter, Scheduled)
 * 2025 HARC (Presenter, Scheduled)
 * 2024 AAA Annual Meeting (Moderator, Discussant)
 * 2024 Spark Meeting (Presenter)
