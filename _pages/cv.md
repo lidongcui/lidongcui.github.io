@@ -26,7 +26,7 @@ Working Paper
   * 2024 Spark Meeting, 2024 JAAF Conference
 
 * The Influence of Fraud on Bond Yield: Evidence from Municipal Bond Issuances” (with Hannah Smith Antinozzi and Philip Kunz)
-  * R&R, Advances in Taxation
+  * Forthcoming, Advances in Taxation
   
 Works in Process
 ======
