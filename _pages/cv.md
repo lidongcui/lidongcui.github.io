@@ -76,7 +76,7 @@ Service
 * Ad Hoc Reviewer For Journals
   * British Accounting Review, 2023
   * Journal of International Accounting Research, 2021, 2022, 2023, 2024
-  * Journal of Forensic Accounting Research, 2023, 2024
+  * Journal of Forensic Accounting Research, 2023, 2024, 2025
   * Asian Review of Accounting, 2023, 2024
   * Managerial Auditing Journal, 2021, 2022
   * Journal of Financial Markets, 2021
