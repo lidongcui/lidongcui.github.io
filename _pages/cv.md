@@ -30,7 +30,6 @@ Working Paper
   
 Works in Process
 ======
-* Analyst Earnings Forecast Properties During Covid-19 (with Steve Lin, Ling Tuo and Ya-wen Yang)
 * Does Reporting Location of Special Items Affect classification shifting? (with Steve Lin)
 * OTC Firm Audits and the Market Perception (with Gopal V. Krishnan and Yanru Yang)
 
