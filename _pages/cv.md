@@ -24,6 +24,8 @@ Working Paper
 
 * Does Income Statement Presentation Affect Earnings Management? (with Abhijit Barua, Steve Lin, and Andrew Sbaraglia)
   * 2024 Spark Meeting, 2024 JAAF Conference
+ 
+* Effect of financial statement presentation on value relevance of earnings categories in the income statement: A potential    effect from IFRS 18” (with Steve Lin, and Yawen Yang)
 
 * The Influence of Fraud on Bond Yield: Evidence from Municipal Bond Issuances” (with Hannah Smith Antinozzi and Philip Kunz)
   * Forthcoming, Advances in Taxation
@@ -31,6 +33,7 @@ Working Paper
 Works in Process
 ======
 * Does Reporting Location of Special Items Affect classification shifting? (with Steve Lin)
+* The Implicit tax effect of the TCJA” (with Hannah Smith Antinozzi)
 * OTC Firm Audits and the Market Perception (with Gopal V. Krishnan and Yanru Yang)
 
 Teaching
@@ -66,6 +69,7 @@ Conference Participation
 Service
 ======
 * Ad Hoc Reviewer For Conference
+  * 2025 AAA Annual Meeting
   * 2025 IAS Midyear Meeting
   * 2025 FARS Midyear Meeting
   * 2024 Spark Meeting
@@ -75,10 +79,10 @@ Service
   
 * Ad Hoc Reviewer For Journals
   * British Accounting Review, 2023
-  * Journal of International Accounting Research, 2021, 2022, 2023, 2024
-  * Journal of Forensic Accounting Research, 2023, 2024, 2025
-  * Asian Review of Accounting, 2023, 2024
-  * Managerial Auditing Journal, 2021, 2022
+  * Journal of International Accounting Research, 2021-2025
+  * Journal of Forensic Accounting Research, 2023-2024
+  * Asian Review of Accounting, 2023-2025
+  * Managerial Auditing Journal, 2021-2022
   * Journal of Financial Markets, 2021
 
 Honors And Distinctions
