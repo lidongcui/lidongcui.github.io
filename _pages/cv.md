@@ -20,12 +20,13 @@ Working Paper
 ======
 * Do income-statement line items and their comparability mitigate classification shifting? (With Steve Lin)
   * 2024 Southwest Regional Meeting, 2024 Spark Meeting, 2024 JAAF Conference
-  * 2025 Hawaii Accounting Research Conference, 2025 FARS Midyear Meeting (Scheduled)
+  * 2025 Hawaii Accounting Research Conference, 2025 FARS Midyear Meeting
 
 * Does Income Statement Presentation Affect Earnings Management? (with Abhijit Barua, Steve Lin, and Andrew Sbaraglia)
   * 2024 Spark Meeting, 2024 JAAF Conference
  
-* Effect of financial statement presentation on value relevance of earnings categories in the income statement: A potential    effect from IFRS 18” (with Steve Lin, and Yawen Yang)
+* Does Structure Matter? Evidence from Applying IFRS 18's Classification to U.S. Earnings Data (with Steve Lin, and Yawen  
+  Yang)
 
 * The Influence of Fraud on Bond Yield: Evidence from Municipal Bond Issuances” (with Hannah Smith Antinozzi and Philip Kunz)
   * Forthcoming, Advances in Taxation
@@ -50,8 +51,8 @@ Teaching
 
 Conference Participation
 ======
-* 2025 FARS Midyear Meeting (Presenter, Scheduled)
-* 2025 HARC (Presenter, Scheduled)
+* 2025 FARS Midyear Meeting (Presenter)
+* 2025 HARC (Presenter)
 * 2024 AAA Annual Meeting (Moderator, Discussant)
 * 2024 Spark Meeting (Presenter)
 * 2024 Southwest Regional Meeting (Presenter)
