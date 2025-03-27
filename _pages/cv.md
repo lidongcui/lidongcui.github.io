@@ -25,8 +25,7 @@ Working Paper
 * Does Income Statement Presentation Affect Earnings Management? (with Abhijit Barua, Steve Lin, and Andrew Sbaraglia)
   * 2024 Spark Meeting, 2024 JAAF Conference
  
-* Does Structure Matter? Evidence from Applying IFRS 18's Classification to U.S. Earnings Data (with Steve Lin, and Yawen  
-  Yang)
+* Does Structure Matter? Evidence from Applying IFRS 18's Classification to U.S. Earnings Data (with Steve Lin, and Yawen Yang)
 
 * The Influence of Fraud on Bond Yield: Evidence from Municipal Bond Issuances” (with Hannah Smith Antinozzi and Philip Kunz)
   * Forthcoming, Advances in Taxation
