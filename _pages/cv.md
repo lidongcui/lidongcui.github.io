@@ -21,12 +21,12 @@ Working Paper
 * Do income-statement line items and their comparability mitigate classification shifting? (With Steve Lin)
   * The University of Memphis
   * 2024 Southwest Regional Meeting, 2024 Spark Meeting, 2024 JAAF Conference
-  * 2025 Hawaii Accounting Research Conference, 2025 FARS Midyear Meeting, 2025 AAA Annual Meeting(Scheduled)
+  * 2025 Hawaii Accounting Research Conference, 2025 FARS Midyear Meeting, 2025 AAA Annual Meeting (Scheduled)
 
 * Does Income Statement Presentation Affect Earnings Management? (with Abhijit Barua, Steve Lin, and Andrew Sbaraglia)
   * The University of Memphis
   * 2024 Spark Meeting, 2024 JAAF Conference
-  * 2025 AAA Annual Meeting
+  * 2025 AAA Annual Meeting (Scheduled)
  
 * Do the Three Income Categories and Two Subtotals Under IFRS 18 Enhance the Usefulness of the Income Statement in the U.S.? (with Steve Lin, and Yawen Yang)
   * Under Review, Accounting Horizons
