@@ -10,7 +10,7 @@ author_profile: true
 
 Education
 ======
-* Ph.D in Accounting, University of Memphis, 2025 (expected)
+* Ph.D in Accounting, University of Memphis, Summer 2025 (expected)
   * Minor in Finance
 * M.S. in Finance, Baruch College, 2019
 * M.S. in Accounting, Binghamton University, 2018
@@ -19,13 +19,17 @@ Education
 Working Paper
 ======
 * Do income-statement line items and their comparability mitigate classification shifting? (With Steve Lin)
+  * The University of Memphis
   * 2024 Southwest Regional Meeting, 2024 Spark Meeting, 2024 JAAF Conference
-  * 2025 Hawaii Accounting Research Conference, 2025 FARS Midyear Meeting
+  * 2025 Hawaii Accounting Research Conference, 2025 FARS Midyear Meeting, 2025 AAA Annual Meeting(Scheduled)
 
 * Does Income Statement Presentation Affect Earnings Management? (with Abhijit Barua, Steve Lin, and Andrew Sbaraglia)
+  * The University of Memphis
   * 2024 Spark Meeting, 2024 JAAF Conference
+  * 2025 AAA Annual Meeting
  
-* Does Structure Matter? Evidence from Applying IFRS 18's Classification to U.S. Earnings Data (with Steve Lin, and Yawen Yang)
+* Do the Three Income Categories and Two Subtotals Under IFRS 18 Enhance the Usefulness of the Income Statement in the U.S.? (with Steve Lin, and Yawen Yang)
+  * Under Review, Accounting Horizons
 
 * The Influence of Fraud on Bond Yield: Evidence from Municipal Bond Issuances” (with Hannah Smith Antinozzi and Philip Kunz)
   * Forthcoming, Advances in Taxation
@@ -50,6 +54,7 @@ Teaching
 
 Conference Participation
 ======
+* 2025 AAA Annual Meeting (Presenter, Scheduled)
 * 2025 FARS Midyear Meeting (Presenter)
 * 2025 HARC (Presenter)
 * 2024 AAA Annual Meeting (Moderator, Discussant)
