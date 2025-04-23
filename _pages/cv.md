@@ -19,6 +19,7 @@ Education
 Working Paper
 ======
 * Do income-statement line items and their comparability mitigate classification shifting? (With Steve Lin)
+  * Under Review, The Accounting Review
   * The University of Memphis
   * 2024 Southwest Regional Meeting, 2024 Spark Meeting, 2024 JAAF Conference
   * 2025 Hawaii Accounting Research Conference, 2025 FARS Midyear Meeting, 2025 AAA Annual Meeting (Scheduled)
