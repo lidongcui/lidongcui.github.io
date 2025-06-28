@@ -29,7 +29,7 @@ Working Paper
   * 2025 AAA Annual Meeting (Scheduled)
  
 * Do the Three Income Categories and Two Subtotals Under IFRS 18 Enhance the Usefulness of the Income Statement in the U.S.? (with Steve Lin, and Yawen Yang)
-  * Under Review, Accounting Horizons
+  * Revise and Resubmit, Accounting Horizons
 
 * The Influence of Fraud on Bond Yield: Evidence from Municipal Bond Issuances” (with Hannah Smith Antinozzi and Philip Kunz)
   * Forthcoming, Advances in Taxation
