@@ -8,9 +8,14 @@ author_profile: true
 
 {% include base_path %}
 
+Academic Experience
+======
+* Manhattan University, 2025-2026
+  Visiting Assistant Professor of Accounting
+
 Education
 ======
-* Ph.D in Accounting, University of Memphis, Summer 2025 (expected)
+* Ph.D in Accounting, University of Memphis, Summer 2025
   * Minor in Finance
 * M.S. in Finance, Baruch College, 2019
 * M.S. in Accounting, Binghamton University, 2018
