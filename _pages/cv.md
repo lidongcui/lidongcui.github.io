@@ -11,7 +11,7 @@ author_profile: true
 Academic Experience
 ======
 * Manhattan University, 2025-2026
-  Visiting Assistant Professor of Accounting
+  * Visiting Assistant Professor of Accounting
 
 Education
 ======
