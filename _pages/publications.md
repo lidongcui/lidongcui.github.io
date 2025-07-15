@@ -14,7 +14,7 @@ Working Paper
 
 Authors: *Lidong Cui*, Steve Lin
 
-Under Review, The Accounting Review
+Revise and Resubmit, The Accounting Review
 
 Presented at: University of Memphis, [2024 Southwest Regional Meeting](https://aaahq.org/Meetings/2024/Southwest%2520Region%2520Meeting/Program), [2024 Spark Meeting](https://aaahq.org/Meetings/2024/Spark/program), [2024 JAAF Conference](https://860c7ea363.clvaw-cdnwnd.com/2f242be74153b5d45d4f09b0e499dd3b/200000158-f02dbf02dd/Program_JAAF%20Conference%202024.pdf?ph=860c7ea363), [2025 Hawaii Accounting Research Conference](https://manoa.hawaii.edu/harc/wp-content/uploads/2024/12/HARC-2025-Program-12.27.2024-publication-version.pdf), [2025 FARS Midyear Meeting](https://aaahq.org/Meetings/2025/FARS-Midyear-Meeting/Program), 2025 AAA Annual Meeting (Scheduled)
 
