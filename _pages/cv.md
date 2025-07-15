@@ -16,7 +16,6 @@ Academic Experience
 Education
 ======
 * Ph.D in Accounting, University of Memphis, Summer 2025
-  * Minor in Finance
 * M.S. in Finance, Baruch College, 2019
 * M.S. in Accounting, Binghamton University, 2018
 * B.S. in Management with Marketing, University of Leeds, 2016
@@ -24,6 +23,7 @@ Education
 Working Paper
 ======
 * Do income-statement line items and their comparability mitigate classification shifting? (With Steve Lin)
+  * Revise and Resubmit, The Accounting Review
   * The University of Memphis
   * 2024 Southwest Regional Meeting, 2024 Spark Meeting, 2024 JAAF Conference
   * 2025 Hawaii Accounting Research Conference, 2025 FARS Midyear Meeting, 2025 AAA Annual Meeting (Scheduled)
@@ -47,7 +47,12 @@ Works in Process
 
 Teaching
 ======
-* My teaching preferences include financial accounting, managerial accounting, and data analytics. 
+* My teaching preferences include financial accounting, managerial accounting, and data analytics.
+* Manhattan University
+  * Instructor, ACCT 201-02; 03, Principles of Acct I, Fall 2025
+  * Instructor, ACCT 301-01, Intermediate Acct I, Fall 2025
+  * Instructor, MBA 630-01, Acct for Decision Makers, Fall 2025
+    
 * The University of Memphis
   * Instructor, ACCT 2020-002 Managerial Acct, Spring 2024
   * Co-instructor, ACCT 3310-M50 Intermediate Cost Acct, Fall 2023
