@@ -26,12 +26,12 @@ Working Paper
   * Revise and Resubmit, The Accounting Review
   * The University of Memphis
   * 2024 Southwest Regional Meeting, 2024 Spark Meeting, 2024 JAAF Conference
-  * 2025 Hawaii Accounting Research Conference, 2025 FARS Midyear Meeting, 2025 AAA Annual Meeting (Scheduled)
+  * 2025 Hawaii Accounting Research Conference, 2025 FARS Midyear Meeting, 2025 AAA Annual Meeting
 
 * Does Income Statement Presentation Affect Earnings Management? (with Abhijit Barua, Steve Lin, and Andrew Sbaraglia)
   * The University of Memphis
   * 2024 Spark Meeting, 2024 JAAF Conference
-  * 2025 AAA Annual Meeting (Scheduled)
+  * 2025 AAA Annual Meeting
  
 * Do the Three Income Categories and Two Subtotals Under IFRS 18 Enhance the Usefulness of the Income Statement in the U.S.? (with Steve Lin, and Yawen Yang)
   * Revise and Resubmit, Accounting Horizons
@@ -64,7 +64,7 @@ Teaching
 
 Conference Participation
 ======
-* 2025 AAA Annual Meeting (Presenter, Scheduled)
+* 2025 AAA Annual Meeting (Presenter)
 * 2025 FARS Midyear Meeting (Presenter)
 * 2025 HARC (Presenter)
 * 2024 AAA Annual Meeting (Moderator, Discussant)
@@ -84,6 +84,9 @@ Conference Participation
 Service
 ======
 * Ad Hoc Reviewer For Conference
+  * 2026 Auditing Midyear Meeting
+  * 2026 FARS Midyear Meeting
+  * 2026 IAS Midyear Meeting
   * 2025 AAA Annual Meeting
   * 2025 IAS Midyear Meeting
   * 2025 FARS Midyear Meeting
