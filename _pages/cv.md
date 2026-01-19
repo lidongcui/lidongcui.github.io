@@ -42,7 +42,7 @@ Working Paper
 Works in Process
 ======
 * Does Reporting Location of Special Items Affect classification shifting? (with Steve Lin)
-* The Implicit tax effect of the TCJA” (with Hannah Smith Antinozzi)
+* The Implicit tax effect of the TCJA” (with Hannah Smith Antinozzi and Philips Kunz)
 * OTC Firm Audits and the Market Perception (with Gopal V. Krishnan and Yanru Yang)
 
 Teaching
