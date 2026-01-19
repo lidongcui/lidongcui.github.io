@@ -49,6 +49,9 @@ Teaching
 ======
 * My teaching preferences include financial accounting, managerial accounting, and data analytics.
 * Manhattan University
+  * Instructor, ACCT 405-01，Advance Accounting, Spring 2026
+  * Instructor, ACCT 350-01，Accounting Information System, Spring 2026
+  * Instructor, ACCT 201-01; 02, Principles of Acct I, Spring 2026
   * Instructor, ACCT 201-02; 03, Principles of Acct I, Fall 2025
   * Instructor, ACCT 301-01, Intermediate Acct I, Fall 2025
   * Instructor, MBA 630-01, Acct for Decision Makers, Fall 2025
@@ -64,6 +67,7 @@ Teaching
 
 Conference Participation
 ======
+* 2026 Auditing Midyear (Discussant, Moderator)
 * 2025 AAA Annual Meeting (Presenter)
 * 2025 FARS Midyear Meeting (Presenter)
 * 2025 HARC (Presenter)
