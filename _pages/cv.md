@@ -10,7 +10,7 @@ author_profile: true
 
 Academic Experience
 ======
-* Manhattan University, 2025-2026
+* Manhattan University, 2025-2027
   * Visiting Assistant Professor of Accounting
 
 Education
@@ -34,14 +34,16 @@ Working Paper
   * 2025 AAA Annual Meeting
  
 * Do the Three Income Categories and Two Subtotals Under IFRS 18 Enhance the Usefulness of the Income Statement in the U.S.? (with Steve Lin, and Yawen Yang)
-  * Revise and Resubmit, Accounting Horizons
+  * Conditional Acceptance, Accounting Horizons
 
 * The Influence of Fraud on Bond Yield: Evidence from Municipal Bond Issuances” (with Hannah Smith Antinozzi and Philip Kunz)
   * Forthcoming, Advances in Taxation
-  
+
+* Does Reporting Location of Special Items Affect classification shifting? (with Steve Lin)
+  * 2026 AAA Global Connect
+    
 Works in Process
 ======
-* Does Reporting Location of Special Items Affect classification shifting? (with Steve Lin)
 * The Implicit tax effect of the TCJA” (with Hannah Smith Antinozzi and Philips Kunz)
 * OTC Firm Audits and the Market Perception (with Gopal V. Krishnan and Yanru Yang)
 
@@ -49,12 +51,11 @@ Teaching
 ======
 * My teaching preferences include financial accounting, managerial accounting, and data analytics.
 * Manhattan University
-  * Instructor, ACCT 405-01，Advance Accounting, Spring 2026
-  * Instructor, ACCT 350-01，Accounting Information System, Spring 2026
-  * Instructor, ACCT 201-01; 02, Principles of Acct I, Spring 2026
-  * Instructor, ACCT 201-02; 03, Principles of Acct I, Fall 2025
-  * Instructor, ACCT 301-01, Intermediate Acct I, Fall 2025
-  * Instructor, MBA 630-01, Acct for Decision Makers, Fall 2025
+  * Instructor, ACCT 405，Advance Accounting, Spring 2026
+  * Instructor, ACCT 350，Accounting Information System, Spring 2026
+  * Instructor, ACCT 201, Principles of Acct I, Fall 2025, Spring 2026, Fall 2026
+  * Instructor, ACCT 301, Intermediate Acct I, Fall 2025, Fall 2026
+  * Instructor, MBA 630, Acct for Decision Makers, Fall 2025, Fall 2026
     
 * The University of Memphis
   * Instructor, ACCT 2020-002 Managerial Acct, Spring 2024
@@ -67,6 +68,7 @@ Teaching
 
 Conference Participation
 ======
+* 2026 AAA Global Connect (Presenter)
 * 2026 Auditing Midyear (Discussant, Moderator)
 * 2025 AAA Annual Meeting (Presenter)
 * 2025 FARS Midyear Meeting (Presenter)
@@ -88,6 +90,8 @@ Conference Participation
 Service
 ======
 * Ad Hoc Reviewer For Conference
+  * 2026 AAA Global Connect
+  * 2026 Spark Conference
   * 2026 Auditing Midyear Meeting
   * 2026 FARS Midyear Meeting
   * 2026 IAS Midyear Meeting
