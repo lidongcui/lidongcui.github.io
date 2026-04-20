@@ -40,12 +40,13 @@ Working Paper
   * Forthcoming, Advances in Taxation
 
 * Does Reporting Location of Special Items Affect classification shifting? (with Steve Lin)
-  * 2026 AAA Global Connect
+  * 2026 AAA Global Connect, 2026 Spark Conference
     
 Works in Process
 ======
 * The Implicit tax effect of the TCJA” (with Hannah Smith Antinozzi and Philips Kunz)
 * OTC Firm Audits and the Market Perception (with Gopal V. Krishnan and Yanru Yang)
+* Does Income Statement Presentation Matter? Evidence on Earnings Classification, Policy Tradeoffs, and Financial Reporting Implications (with Steve Lin, and Yawen Yang)
 
 Teaching
 ======
@@ -69,6 +70,7 @@ Teaching
 Conference Participation
 ======
 * 2026 AAA Global Connect (Presenter)
+* 2026 Spark Meeting (Presenter)
 * 2026 Auditing Midyear (Discussant, Moderator)
 * 2025 AAA Annual Meeting (Presenter)
 * 2025 FARS Midyear Meeting (Presenter)
