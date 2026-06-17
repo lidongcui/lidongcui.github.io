@@ -40,7 +40,7 @@ Working Paper
   * Forthcoming, Advances in Taxation
 
 * Does Reporting Location of Special Items Affect classification shifting? (with Steve Lin)
-  * 2026 AAA Global Connect, 2026 Spark Conference
+  * 2026 AAA Global Connect, 2026 Spark Conference, 2026 The 13th JIAR Conference
     
 Works in Process
 ======
