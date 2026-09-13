@@ -20,10 +20,18 @@ Education
 * M.S. in Accounting, Binghamton University, 2018
 * B.S. in Management with Marketing, University of Leeds, 2016
 
+Publication
+======
+* Do the Three Income Categories and Two Subtotals Under IFRS 18 Enhance the Usefulness of the Income Statement in the U.S.? (with Steve Lin, and Yawen Yang)
+  * *Accounting Horizons* (2026), https://doi.org/10.2308/HORIZONS-2025-080
+
+* The Influence of Fraud on Bond Yield in the New Information Age: Evidence From Municipal Bond Issuances (with Hannah Smith Antinozzi and Philip Kunz)
+  * *Advances in Taxation* (2026), https://doi.org/10.1108/978-1-80686-021-0
+
 Working Paper
 ======
 * Do income-statement line items and their comparability mitigate classification shifting? (With Steve Lin)
-  * Revise and Resubmit, The Accounting Review
+  * *Revise and Resubmit, The Accounting Review*
   * The University of Memphis
   * 2024 Southwest Regional Meeting, 2024 Spark Meeting, 2024 JAAF Conference
   * 2025 Hawaii Accounting Research Conference, 2025 FARS Midyear Meeting, 2025 AAA Annual Meeting
@@ -33,19 +41,15 @@ Working Paper
   * 2024 Spark Meeting, 2024 JAAF Conference
   * 2025 AAA Annual Meeting
  
-* Do the Three Income Categories and Two Subtotals Under IFRS 18 Enhance the Usefulness of the Income Statement in the U.S.? (with Steve Lin, and Yawen Yang)
-  * Conditional Acceptance, Accounting Horizons
-
-* The Influence of Fraud on Bond Yield: Evidence from Municipal Bond Issuances” (with Hannah Smith Antinozzi and Philip Kunz)
-  * Forthcoming, Advances in Taxation
-
-* Does Reporting Location of Special Items Affect classification shifting? (with Steve Lin)
+* Does Reporting Location of Special Items Affect classification shifting? (with Charles Kang and Steve Lin)
   * 2026 AAA Global Connect, 2026 Spark Conference, 2026 The 13th JIAR Conference
-    
+ 
+* Audit Production Capability and the Absorption of Regulatory Complexity: Evidence from ASC 842 (with Leon Chan and Yanru Yang)
+
 Works in Process
 ======
 * The Implicit tax effect of the TCJA” (with Hannah Smith Antinozzi and Philips Kunz)
-* OTC Firm Audits and the Market Perception (with Gopal V. Krishnan and Yanru Yang)
+* OTC Firm Audits and the Market Perception (with Rachel Cao, Gopal V. Krishnan and Yanru Yang)
 * Does Income Statement Presentation Matter? Evidence on Earnings Classification, Policy Tradeoffs, and Financial Reporting Implications (with Steve Lin, and Yawen Yang)
 
 Teaching
@@ -92,6 +96,7 @@ Conference Participation
 Service
 ======
 * Ad Hoc Reviewer For Conference
+  * 2027 IAS Midyear Meeting
   * 2026 AAA Global Connect
   * 2026 Spark Conference
   * 2026 Auditing Midyear Meeting
