@@ -40,6 +40,7 @@ Working Paper
   * The University of Memphis
   * 2024 Spark Meeting, 2024 JAAF Conference
   * 2025 AAA Annual Meeting
+  * 2027 Hawaii Accounting Research Conference (Scheduled)
  
 * Does Reporting Location of Special Items Affect classification shifting? (with Charles Kang and Steve Lin)
   * 2026 AAA Global Connect, 2026 Spark Conference, 2026 The 13th JIAR Conference
@@ -56,9 +57,9 @@ Teaching
 ======
 * My teaching preferences include financial accounting, managerial accounting, and data analytics.
 * Manhattan University
-  * Instructor, ACCT 405，Advance Accounting, Spring 2026
-  * Instructor, ACCT 350，Accounting Information System, Spring 2026
-  * Instructor, ACCT 201, Principles of Acct I, Fall 2025, Spring 2026, Fall 2026
+  * Instructor, ACCT 405，Advance Accounting, Spring 2026, Spring 2027
+  * Instructor, ACCT 350，Accounting Information System, Spring 2026, Spring 2027
+  * Instructor, ACCT 201, Principles of Acct I, Fall 2025, Spring 2026, Fall 2026, Spring 2027
   * Instructor, ACCT 301, Intermediate Acct I, Fall 2025, Fall 2026
   * Instructor, MBA 630, Acct for Decision Makers, Fall 2025, Fall 2026
     
@@ -73,6 +74,7 @@ Teaching
 
 Conference Participation
 ======
+* 2027 HARC (Presenter, Scheduled)
 * 2026 AAA Global Connect (Presenter)
 * 2026 Spark Meeting (Presenter)
 * 2026 Auditing Midyear (Discussant, Moderator)
@@ -96,6 +98,8 @@ Conference Participation
 Service
 ======
 * Ad Hoc Reviewer For Conference
+  * 2027 FARS Midyear Meeting
+  * 2027 Audit Midyear Meeting
   * 2027 IAS Midyear Meeting
   * 2026 AAA Global Connect
   * 2026 Spark Conference
