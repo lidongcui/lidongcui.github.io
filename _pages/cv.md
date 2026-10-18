@@ -61,7 +61,7 @@ Teaching
   * Instructor, ACCT 350，Accounting Information System, Spring 2026, Spring 2027
   * Instructor, ACCT 201, Principles of Acct I, Fall 2025, Spring 2026, Fall 2026, Spring 2027
   * Instructor, ACCT 301, Intermediate Acct I, Fall 2025, Fall 2026
-  * Instructor, MBA 630, Acct for Decision Makers, Fall 2025, Fall 2026
+  * Instructor, MBA 630, Acct for Decision Makers, Fall 2025, Fall 2026, Spring 2027
     
 * The University of Memphis
   * Instructor, ACCT 2020-002 Managerial Acct, Spring 2024
@@ -77,7 +77,7 @@ Conference Participation
 * 2027 HARC (Presenter, Scheduled)
 * 2026 AAA Global Connect (Presenter)
 * 2026 Spark Meeting (Presenter)
-* 2026 Auditing Midyear (Discussant, Moderator)
+* 2026 Auditing Midyear Meeting (Discussant, Moderator)
 * 2025 AAA Annual Meeting (Presenter)
 * 2025 FARS Midyear Meeting (Presenter)
 * 2025 HARC (Presenter)
