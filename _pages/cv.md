@@ -22,7 +22,7 @@ Education
 
 Publication
 ======
-* Do the Three Income Categories and Two Subtotals Under IFRS 18 Enhance the Usefulness of the Income Statement in the U.S.? (with Steve Lin, and Yawen Yang)
+* Does Classifying Earnings into Operating, Investing, and Financing Categories Enhance Earnings Informativeness? Evidence from Applying IFRS 18 to U.S. Data (with Steve Lin, and Yawen Yang)
   * *Accounting Horizons* (2026), https://doi.org/10.2308/HORIZONS-2025-080
 
 * The Influence of Fraud on Bond Yield in the New Information Age: Evidence From Municipal Bond Issuances (with Hannah Smith Antinozzi and Philip Kunz)
